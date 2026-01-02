@@ -1,0 +1,11 @@
+name,safety,international,satisfaction,plane,discount,first-class,age,employee
+Delta,80,True,94,176,True,True,54,95000
+American,83,True,84,203,False,True,60,129700
+Turkish,65,False,33,102,True,False,33,40264
+Indiana,54,False,43,305,False,True,76,100143
+Emirates,90,True,92,242,True,True,44,125000
+Lufthansa,78,True,88,198,True,True,49,107800
+Air France,75,True,86,176,True,False,39,97500
+Qantas,82,True,91,221,False,True,58,135000
+Singapore,88,True,95,215,True,True,57,145000
+British Airways,79,True,87,203,True,True,52,120000
