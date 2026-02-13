@@ -3,8 +3,11 @@
 Airline Reservation System Management Project (Function-Oriented) in Python
 
 This project was an educational project developed by the AIM startup for the Python Programming course. It was designed to cover various topics and help students gain practical experience in the fundamental concepts of Python programming.
-Developers: 
+
+#### 👨‍💻 Developers:
+
 [Daniyal Iran Mehr](https://github.com/DaniaylIranMehr) (Supervisor)
+
 Mani Lashgari
 
 ---
