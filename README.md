@@ -145,6 +145,8 @@ python main.py
 
 ```
 
+---
+
 ## 📌 Notes
 
 * Passenger capacity is considered unlimited.
